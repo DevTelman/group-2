@@ -5,3 +5,13 @@ DefaultImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+<<<<<<< Updated upstream
+=======
+AssetOrigin:
+  serializedVersion: 1
+  productId: 290387
+  packageName: WasteOvergrowth - Comprehensive Trash and Waste Pack
+  packageVersion: 1.0
+  assetPath: Assets/URP_WasteOvergrowth_SA/HDRP_WasteOvergrowth_SA.unitypackage
+  uploadId: 683873
+>>>>>>> Stashed changes
