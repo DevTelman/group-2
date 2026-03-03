@@ -538,7 +538,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &14202520
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -799,7 +799,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &25494162
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -1067,46 +1067,6 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 0.13500002, y: 0.48476973, z: 0.34409806}
   m_Center: {x: 0.0000000037252903, y: 0.2423848, z: 0.0021787584}
---- !u!1 &39486091 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 130046, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-  m_PrefabInstance: {fileID: 2139689941}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &39486095
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 39486091}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: eb760f94aee949a4e81d70d2de55e079, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Trash
-  destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
---- !u!65 &39486096
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 39486091}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 1
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 7.724985, y: 1.9794791, z: 2.8430607}
-  m_Center: {x: 0.45926368, y: -0.008765489, z: -0.20710588}
 --- !u!1 &51150036 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6881170183767840193, guid: 1e32a3bdae2262042a26d502b1f5bd0e, type: 3}
@@ -2059,7 +2019,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &103681289
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2341,7 +2301,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &114717229
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3026,7 +2986,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &139540512
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3346,7 +3306,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &161394702
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -3759,7 +3719,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &184235410
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4225,7 +4185,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &228698598
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -4417,7 +4377,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &252677954
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5241,7 +5201,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &276631620
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5860,7 +5820,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &316252466
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -5900,7 +5860,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &321733390
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -6100,7 +6060,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &337025707
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7159,7 +7119,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &408209554
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7482,7 +7442,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &426738727
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7666,7 +7626,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &443635070
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -7952,7 +7912,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &466536566
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8113,7 +8073,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &475288585
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8591,7 +8551,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &493404829
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -8867,7 +8827,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &512508386
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9008,7 +8968,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &526061380
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9074,7 +9034,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &531700709
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -9186,7 +9146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &549760291
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10084,7 +10044,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &641821756
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10222,7 +10182,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &653313335
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10288,7 +10248,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &659564998
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10890,7 +10850,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &697267131
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -11845,7 +11805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &745148538
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12261,7 +12221,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &792240029
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -12694,7 +12654,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &809534780
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13023,7 +12983,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &828024443
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13204,7 +13164,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &832786077
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13244,7 +13204,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &842553040
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13466,7 +13426,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &862501152
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13558,7 +13518,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &866670890
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13650,7 +13610,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &890874044
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -13909,7 +13869,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &906721023
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14231,7 +14191,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &928073800
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -14271,7 +14231,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &931056933
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15034,7 +14994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1012375121
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15286,7 +15246,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1026245088
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -15691,7 +15651,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1052175581
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16529,7 +16489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1123037863
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16664,7 +16624,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1137188547
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16704,7 +16664,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1137874901
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -16809,7 +16769,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1147053557
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17455,7 +17415,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1176285491
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17600,7 +17560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1186076003
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -17705,7 +17665,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1190392262
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18432,7 +18392,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1217784838
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -18472,7 +18432,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1218530589
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19155,7 +19115,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1281372149
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19407,7 +19367,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1286115242
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19971,7 +19931,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1304520193
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21529,7 +21489,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1432159247
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21688,7 +21648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1443778363
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21852,7 +21812,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1463218149
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -21961,7 +21921,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1472063413
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22148,7 +22108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1480320429
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22254,7 +22214,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1490458261
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22486,7 +22446,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1505354118
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -22696,7 +22656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1511740567
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23092,7 +23052,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1535454710
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23132,7 +23092,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1535522162
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23353,7 +23313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1540462027
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23445,7 +23405,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1547571863
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23884,7 +23844,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1563027995
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -23999,7 +23959,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1572472021
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24166,7 +24126,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1579790191
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24206,7 +24166,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1594696109
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24246,7 +24206,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1595895073
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24351,7 +24311,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1605265906
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24767,7 +24727,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1656841496
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25014,7 +24974,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1664583602
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25054,7 +25014,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1664985728
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25169,7 +25129,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1672069487
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25235,7 +25195,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1673827231
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25275,7 +25235,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1675431621
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25399,7 +25359,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1685071399
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25439,7 +25399,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1690932959
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25812,7 +25772,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1707660954
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -25943,7 +25903,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1728042242
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26009,7 +25969,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1729887324
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26256,7 +26216,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1756259745
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -26474,7 +26434,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1757412128
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28594,7 +28554,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1879469233
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -28802,7 +28762,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1887041062
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29191,7 +29151,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1924554934
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29311,7 +29271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1925555925
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -29517,7 +29477,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1937916218
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30176,7 +30136,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &1989139482
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30763,7 +30723,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &2042965183
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -30803,7 +30763,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &2049695033
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31055,7 +31015,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &2068201877
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31177,7 +31137,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &2073163164
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31341,7 +31301,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &2081443159
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31381,7 +31341,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &2082504369
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31651,7 +31611,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &2096333376
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -31956,7 +31916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Trash
   destroySound: {fileID: 8300000, guid: 3009197d907f5b448af883bff1af49c6, type: 3}
-  audioSource: {fileID: 8814807855389603183, guid: 7d6bdf3dbb9b388428394d893e0d4271, type: 3}
+  audioSource: {fileID: 1885681656}
 --- !u!65 &2112465242
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -32324,81 +32284,6 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 1463218149}
   m_SourcePrefab: {fileID: 100100000, guid: 7dd07572d4797da4f9e517e6acbcd1fd, type: 3}
---- !u!1001 &2139689941
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 130046, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_Name
-      value: Cloud_3 (5)
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 2205
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1903
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 479642, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 130046, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 39486095}
-    - targetCorrespondingSourceObject: {fileID: 130046, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 39486096}
-  m_SourcePrefab: {fileID: 100100000, guid: 7a9b18789a7a0674f90f08e84623d6d0, type: 3}
 --- !u!1001 &2140410397
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -32968,7 +32853,6 @@ SceneRoots:
   - {fileID: 1539585248}
   - {fileID: 558729265}
   - {fileID: 1801492430}
-  - {fileID: 2139689941}
   - {fileID: 686445363}
   - {fileID: 2101540587}
   - {fileID: 98937292}
